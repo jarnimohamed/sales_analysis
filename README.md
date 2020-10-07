@@ -13,7 +13,7 @@ tasks during the creation of the dataset :
 * generating a realistic quantity ordered for each product We use numpy geometric distribution.
 * adding multiple items being more likely to be sold together.
 
-Now that we have our 12months worth of sales data, we move to the data exploration section. In this section we explore 5 high level business questions related to our data:
+Now that we have our 12months worth of sales data, we move to the data exploration section in [2019_sales_analysis.ipynb](https://github.com/jarnimohamed/sales_analysis/blob/master/2019_sales_analysis.ipynb). In this section we explore 5 high level business questions related to our data:
 
        -What was the best month for sales? How much was earned that month?
        -What city sold the most product?
